@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @SleptBear
-- 👀 I’m interested in learning all things to do with full stack software development
-- 🌱 I’m currently learning to setup my environment and learn more javascript applications
-- 💞️ I’m looking to collaborate on nothing at the moment as I must learn more on my own first.
-- 📫 How to reach me email (kian.matthew@berkeley.edu) or phone (949)-226-3810
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -19,7 +14,7 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=SleptBear&style=flat-square&color=blue" alt=""/>
 <h1>
-  hey there
+  SleptBear says hi!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
@@ -38,7 +33,7 @@
 
 - :zap: In my free time, I stay up to date on upcoming computer hardware and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kian-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/kian-seyed)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kian-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/kian-seyed), 📱 (949) - 226 - 3810
 
 ---
 
