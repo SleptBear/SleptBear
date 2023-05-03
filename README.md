@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://wellfound.com/u/kian-seyedjafari">
     <img src="https://img.shields.io/badge/Wellfound-gold?style=for-the-badge&logo=wellfound&logoColor=white" alt="Twitter Badge"/>
