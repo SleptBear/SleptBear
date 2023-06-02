@@ -14,7 +14,7 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=SleptBear&style=flat-square&color=blue" alt=""/>
 <h1>
-  SleptBear says hi!
+  SleptBear, AKA Kian, says hi!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
