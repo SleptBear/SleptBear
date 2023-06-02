@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/kian-seyed">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://sleptbear.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://wellfound.com/u/kian-seyedjafari">
@@ -67,10 +67,10 @@
 
 ---
 
-### :writing_hand: Blog Posts :
+<!-- ### :writing_hand: Blog Posts : -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Test Post](https://dev.to/itszed0/test-post-490g)
+<!-- - [Test Post](https://dev.to/itszed0/test-post-490g) -->
 <!-- BLOG-POST-LIST:END -->
 
 
